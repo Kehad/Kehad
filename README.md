@@ -34,3 +34,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kehad&" alt="kehad" /></p>
 
 
+
+<div style="width: 100%; align:center;">
+  <a href="https://github.com/Kehad?tab=repositories">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,python,tailwind&software=windows,vscode&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 48%;">
+  </a>
+  <a href="https://github.com/Kehad?tab=repositories">
+    <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,npm,yarn,nodejs&frameworks=react,next&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 48%;">
+  </a>
+</div>
+
+
