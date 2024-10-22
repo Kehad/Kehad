@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kehad" alt="kehad" /></a> </p>
 
-- 🔭 I’m currently working on **Kehad App**
+- 🔭 I’m currently working on **a Figma Plugin**
 
 - 🌱 I’m currently learning **React Native**
 
